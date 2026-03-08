@@ -24,12 +24,6 @@ I enjoy turning ideas into solutions that help people.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
-
----
-
 ## 🌱 Currently Exploring
 
 - New technology ideas
