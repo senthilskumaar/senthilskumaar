@@ -30,15 +30,6 @@ I enjoy turning ideas into solutions that help people.
 
 ---
 
-## 🚀 Projects
-
-| Project | Description |
-|------|-------------|
-| Project 1 | Description |
-| Project 2 | Description |
-
----
-
 ## 🌱 Currently Exploring
 
 - New technology ideas
