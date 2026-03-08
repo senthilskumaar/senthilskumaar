@@ -1,49 +1,50 @@
-# 👋 Hi, I'm Senthilkumar
+# Hi 👋 I'm Senthilkumar
 
-🚀 Technology enthusiast passionate about solving real-world problems.
+🚀 Problem Solver | Technology Enthusiast | Idea Builder
 
-I enjoy transforming ideas into practical solutions using technology, data, and strategic thinking.
-
----
-
-## 🌏 About Me
-
-- 📍 Based in Japan
-- 💡 Passionate about solving meaningful problems
-- 📊 Interested in data analytics and dashboards
-- 🧠 Love combining big ideas with execution plans
-- 🚀 Exploring innovative technology projects
+I enjoy turning ideas into solutions that help people.
 
 ---
 
-## 🔧 Skills & Interests
+## 🧠 About Me
 
-- Data Analytics
-- Dashboard Design
-- Technology Strategy
+- 💡 I enjoy solving real-world problems
+- 🚀 Interested in technology-driven innovation
+- 🧩 Love combining creativity with strategic thinking
+- 🌍 Building systems that create value
+
+---
+
+## 🛠 Skills
+
 - Problem Solving
-- Project Planning
+- Strategic Thinking
+- System Thinking
+- Technology Exploration
 
 ---
 
-## 📊 Current Projects
+## 📊 GitHub Stats
 
-- 🌱 Sustainability Analytics Dashboard
-- 📈 Data Visualization Experiments
-- ⚙️ Technology Automation Projects
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
 ---
 
-## 📚 What I'm Learning
+## 🚀 Projects
 
-- Advanced data analytics
-- Visualization tools
-- GitHub project development
+| Project | Description |
+|------|-------------|
+| Project 1 | Description |
+| Project 2 | Description |
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Currently Exploring
 
-Feel free to explore my repositories and projects.
+- New technology ideas
+- Tools that solve everyday problems
+- Scalable systems
 
-Let's build technology that makes an impact.
+---
+
+⭐ Always learning. Always building.
