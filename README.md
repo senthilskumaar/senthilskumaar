@@ -61,11 +61,11 @@ An **AI Operations Copilot** powered by the **Model Context Protocol (MCP)** ena
 
 | Use Case | Description |
 |---|---|
-| **製造業 (Manufacturing) — Predictive Maintenance** | AI Copilot connects via MCP to sensor data and maintenance logs to proactively detect equipment failures and schedule repairs, reducing downtime on factory floors |
-| **金融 (Finance) — Incident Response Automation** | Automatically triage and route operational alerts from trading systems, correlate with runbooks, and suggest or execute remediation steps with human-in-the-loop approval |
-| **物流 (Logistics) — Supply Chain Visibility** | Natural-language queries over live inventory, shipment tracking, and supplier data to surface disruptions and recommend rerouting decisions in real time |
-| **エンタープライズIT (Enterprise IT) — SRE Copilot** | AI agent monitors dashboards, reads logs via MCP tool calls, drafts postmortems, and assists on-call engineers with guided troubleshooting in Japanese |
-| **カスタマーサポート (Customer Support) — Ops Automation** | Copilot integrates with ticketing systems and knowledge bases to auto-resolve tier-1 issues and escalate complex cases with full context |
+| **製造業 (Manufacturing) — Predictive Maintenance** | AI Copilot connects via MCP to sensor data and maintenance logs to proactively detect equipment failures and schedule repairs, reducing downtime on factory floors. |
+| **金融 (Finance) — Incident Response Automation** | Automatically triage and route operational alerts from trading systems, correlate with runbooks, and suggest or execute remediation steps with human-in-the-loop approval. |
+| **物流 (Logistics) — Supply Chain Visibility** | Natural-language queries over live inventory, shipment tracking, and supplier data to surface disruptions and recommend rerouting decisions in real time. |
+| **エンタープライズIT (Enterprise IT) — SRE Copilot** | AI agent monitors dashboards, reads logs via MCP tool calls, drafts postmortems, and assists on-call engineers with guided troubleshooting in Japanese. |
+| **カスタマーサポート (Customer Support) — Ops Automation** | Copilot integrates with ticketing systems and knowledge bases to auto-resolve tier-1 issues and escalate complex cases with full context. |
 
 ### 🏗 Architecture
 
